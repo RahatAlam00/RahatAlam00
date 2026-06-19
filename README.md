@@ -62,11 +62,11 @@ Notable results: HD in Artificial Intelligence for Engineering · HD in Interfac
 
 ## 💼 Experience
 
-**Windows Developer Intern — Focus Bear** *(June 2026–Present)*
+**Windows Developer Intern — Focus Bear** *(2026–Present)*
 - Developing onboarding features for a Windows productivity application
 - Working with JavaScript in an Agile team environment
 
-**Customer Service — Shell Coles Express** *(Current)*
+**Customer Service — Shell Coles Express** *(2023-2026)*
 
 ---
 
@@ -76,4 +76,4 @@ Notable results: HD in Artificial Intelligence for Engineering · HD in Interfac
 
 ---
 
-*Based in Melbourne, Australia 🇦🇺 | Open to graduate and junior software engineering roles*
+*Based in Melbourne, Australia | Open to graduate and junior software engineering roles*
