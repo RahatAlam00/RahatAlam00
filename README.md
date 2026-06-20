@@ -1,6 +1,8 @@
 # Hi, I'm Rahat Alam 👋
 
-Final-year Software Engineering (Honours) student at Swinburne University of Technology, Melbourne. I'm passionate about AI/ML applications and building software that solves real problems.
+Final-year Software Engineering (Honours) student at Swinburne University of Technology and Windows Developer Intern at Focus Bear.
+
+I enjoy building software systems, AI-powered applications, and cloud solutions that solve real-world problems. My experience includes full-stack development, large language model applications, and secure software engineering projects.
 
 Currently interning as a Windows Developer at **Focus Bear**, building onboarding experiences with JavaScript.
 
