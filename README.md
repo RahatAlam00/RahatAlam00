@@ -16,8 +16,6 @@ Currently interning as a Windows Developer at **Focus Bear**, building onboardin
 
 **Mobile:** Android (Kotlin · Room · Jetpack)
 
-**Cloud & DevOps:** AWS · Firebase · Docker · Git/GitHub
-
 **Databases:** MySQL · MongoDB · SQLite
 
 **Other:** LabVIEW · Arduino C++ · Agile/Scrum
