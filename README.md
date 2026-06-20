@@ -22,6 +22,18 @@ Currently interning as a Windows Developer at **Focus Bear**, building onboardin
 
 ---
 
+## 💼 Experience
+
+**Windows Developer Intern — Focus Bear** *(2026–Present)*
+- Developing onboarding experiences for a Windows productivity application
+- Collaborating with engineers, designers, and QA in an Agile environment
+- Using GitHub workflows, code reviews, and issue tracking
+- Contributing bug fixes and feature improvements
+
+**Customer Service — Shell Coles Express** *(2023-2026)*
+
+---
+
 ## 🚀 Projects
 
 ### 🤖 LLM-Based Indigenous Climate Knowledge Preservation Chatbot
@@ -60,20 +72,10 @@ Notable results: HD in Artificial Intelligence for Engineering · HD in Interfac
 
 ---
 
-## 💼 Experience
-
-**Windows Developer Intern — Focus Bear** *(2026–Present)*
-- Developing onboarding features for a Windows productivity application
-- Working with JavaScript in an Agile team environment
-
-**Customer Service — Shell Coles Express** *(2023-2026)*
-
----
-
 ## 📫 Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Rahat%20Alam-blue?style=flat&logo=linkedin)](https://linkedin.com/in/rahat-alam-engineer)
 
 ---
 
-*Based in Melbourne, Australia | Open to graduate and junior software engineering roles*
+*Based in Melbourne, Australia *
